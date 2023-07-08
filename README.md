@@ -42,7 +42,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,vuejs" />
   </a>
 </p>
-<hr>
+
 
 <div align="center">
   <h2>🐍</h2>
@@ -53,7 +53,7 @@
   <br>
 </div>
 
-<hr>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
