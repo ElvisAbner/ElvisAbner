@@ -1,4 +1,4 @@
-name: Generate Snake Game from GitHub Contribution Grid
+name: Generate Snake
 
 on:
   schedule:
@@ -13,10 +13,12 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Generate Snake Game
-        uses: Platane/snk@v2.2.1
+      - uses: Platane/snk@master
+        id: snake-gif
         with:
           github_user_name: ElvisAbner
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - run: git status
 
