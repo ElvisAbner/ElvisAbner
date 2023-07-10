@@ -23,7 +23,7 @@
 <h2 align="center">🖌️ Languages-Frameworks Front-End 🌐</h2>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,vue,react,nextjs,wordpress" /><br>
   </a>
 </p>
@@ -31,14 +31,14 @@
 <h2 align="center"> 💻 Languages-Frameworks Back-End 🚀</h2>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql,mongodb,php,python,django,java" /><br>
   </a>
 </p>
 <br>
 <h2 align="center">Learning</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=nodejs,vuejs" />
   </a>
 </p>
