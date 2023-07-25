@@ -39,7 +39,7 @@
 <h2 align="center">Learning</h2>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=nodejs,vuejs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,vuejs,mysql" />
   </a>
 </p>
 
