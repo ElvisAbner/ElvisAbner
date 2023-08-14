@@ -32,7 +32,7 @@
 <br>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql,mongodb,mongoose,php,python,django,java" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql,mongodb,php,python,django,java" /><br>
   </a>
 </p>
 <br>
