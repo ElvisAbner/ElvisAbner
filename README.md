@@ -24,7 +24,7 @@
 <br>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,jquery,vue,react,nextjs,wordpress" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,jquery,vue,react,nextjs,wordpress" /><br>
   </a>
 </p>
 <br>
@@ -39,7 +39,7 @@
 <h2 align="center">Learning</h2>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=react,mongodb" />
+    <img src="https://skillicons.dev/icons?i=react,typescript" />
   </a>
 </p>
 
