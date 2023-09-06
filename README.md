@@ -9,7 +9,7 @@
   <p align="center">
   💻 I love to learn new technologies and frameworks. </p>
    <p align="center">
-  🧑‍💼 Currently learning Vue and Node JS </p>
+  🧑‍💼 Currently learning React and NextJS </p>
   <br>
   
 <div align="center"> 
