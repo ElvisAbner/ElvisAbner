@@ -20,19 +20,19 @@
 
 <br>
 
-<h2 align="center">🖌️ Languages-Frameworks Front-End 🌐</h2>
+<h2 align="center">🖌️ Programming Languages 🌐</h2>
 <br>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,jquery,vue,react,nextjs,wordpress" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java" /><br>
   </a>
 </p>
 <br>
-<h2 align="center"> 💻 Languages-Frameworks Back-End 🚀</h2>
+<h2 align="center"> 💻 Libraries and Frameworks 🚀</h2>
 <br>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql,mongodb,php,python,django,java" /><br>
+    <img src="https://skillicons.dev/icons?i=django,tensorflow,flask,spring" /><br>
   </a>
 </p>
 <br>
