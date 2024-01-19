@@ -5,9 +5,9 @@
 </h1>
 
 <h3 align="center">
-  Hi, I'm a Software Developer 👨‍💻 from the Dominican Republic 🇩🇴 </h3>
+  Hi, I'm a Backend Developer 👨‍💻 from the Dominican Republic 🇩🇴 </h3>
   <p align="center">
-  💻 I love to learn new technologies and frameworks. </p>
+  💻 Learning new technologies and frameworks everyday. </p>
    <p align="center">
   🧑‍💼 Currently learning Python </p>
   <br>
@@ -24,7 +24,7 @@
 <br>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,java" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript" /><br>
   </a>
 </p>
 <br>
@@ -32,7 +32,7 @@
 <br>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=django,tensorflow,flask,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=django,flask,nodejs,expressjs" /><br>
   </a>
 </p>
 <br>
