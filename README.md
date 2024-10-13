@@ -24,7 +24,7 @@
 <br>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,bash" /><br>
   </a>
 </p>
 <br>
