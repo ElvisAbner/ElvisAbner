@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Hi, I'm a Backend Developer 👨‍💻 from the Dominican Republic 🇩🇴 </h3>
+  Hi, I'm a Software Developer 👨‍💻 from the Dominican Republic 🇩🇴 </h3>
   <p align="center">
   💻 Learning new technologies and frameworks everyday. </p>
    <p align="center">
@@ -32,7 +32,7 @@
 <br>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=django,flask,nodejs,expressjs" /><br>
+    <img src="https://skillicons.dev/icons?i=django,flask,react,angular,nodejs,expressjs" /><br>
   </a>
 </p>
 <br>
