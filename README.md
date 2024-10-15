@@ -1,16 +1,9 @@
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!;My+name+is+Elvis+Estevez!;&center=true&size=30](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&repeat=false&width=435&lines=Hi+There!+;I'm+Elvis+Estevez">
-  </a>
-</h1>
+<h2 align="center">Welcome to My GitHub Profile</h2>
 
-<h3 align="center">
-  Hi, I'm a Software Developer 👨‍💻 from the Dominican Republic 🇩🇴 </h3>
-  <p align="center">
-  💻 Learning new technologies and frameworks everyday. </p>
-   <p align="center">
-  🧑‍💼 Currently learning Python </p>
-  <br>
+<p align="center" style="font-size: 18px;">
+  My name is Elvis and I'm a Software Developer from the Dominican Republic 🇩🇴
+</p>
+
   
 <div align="center"> 
  <a href="https://discord.gg/7mEgzvmpFp" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" target="_blank"></a> 
@@ -20,47 +13,29 @@
 
 <br>
 
-<h2 align="center">🖌️ Programming Languages 🌐</h2>
-<br>
+<h2 align="center">Programming Languages</h2>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,javascript,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,python" /><br>
   </a>
 </p>
 <br>
-<h2 align="center"> 💻 Libraries and Frameworks 🚀</h2>
-<br>
+<h2 align="center">Libraries and Frameworks</h2>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=django,flask,react,angular,nodejs,expressjs" /><br>
+    <img src="https://skillicons.dev/icons?i=react,angular,vuejs,nodejs,expressjs,git,github,django,flask" /><br>
   </a>
 </p>
 <br>
 <h2 align="center">Learning</h2>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python, flask" />
+    <img src="https://skillicons.dev/icons?i=vuejs,django,flask" />
   </a>
 </p>
-
-
-<div align="center">
-  <h2>🐍</h2>
-  <br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElvisAbner/ElvisAbner/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/ElvisAbner/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ElvisAbner/ElvisAbner/output/github-contribution-grid-snake.svg">
-</picture>
-  <br>
-  <br>
-  <br>
-</div>
-
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
+<h2 align="center">Stats</h2>
 <p align=center>
   <div align=center>
     <a href="#">
@@ -78,10 +53,9 @@
   </div>
   <br>
   <br>
-  <br>
   
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
+  
+<h2 align="center">Repositories </h2>
 <div width="100%" align="center">
   <a align="right" href="https://github.com/ElvisAbner/React-KeeperApp" title="Repository 1"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ElvisAbner&repo=React-KeeperApp&theme=react&border_color=61dafb&border_radius=10.1"></a>
   <a align="left" href="https://github.com/ElvisAbner/NodeJS-Vlogging-Website" title="Repository 2"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ElvisAbner&repo=NodeJS-Vlogging-Website&theme=react&border_color=61dafb&border_radius=10"></a>
