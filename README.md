@@ -42,18 +42,24 @@
 <h2 align="center">Stats</h2>
 
 <div align="center">
-  <img width="390"
-       src="https://github-readme-stats-tau-jade.vercel.app/api?username=ElvisAbner&show_icons=true&theme=react&border_color=61dafb&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=21600" />
+  <a href="https://github.com/ElvisAbner" target="_blank">
+    <img width="390"
+         src="https://github-readme-stats-tau-jade.vercel.app/api?username=ElvisAbner&show_icons=true&theme=react&border_color=61dafb&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=21600" />
+  </a>
 
-  <img width="390"
-       src="https://github-readme-stats-tau-jade.vercel.app/api?username=ElvisAbner&show_icons=true&theme=react&border_color=61dafb&border_radius=10&rank_icon=github&cache_seconds=21600" />
+  <a href="https://github.com/ElvisAbner?tab=overview" target="_blank">
+    <img width="390"
+         src="https://github-readme-stats-tau-jade.vercel.app/api?username=ElvisAbner&show_icons=true&theme=react&border_color=61dafb&border_radius=10&rank_icon=github&cache_seconds=21600" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="325"
-       src="https://github-readme-stats-tau-jade.vercel.app/api/top-langs/?username=ElvisAbner&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&langs_count=8&layout=compact&theme=react&border_color=61dafb&border_radius=10&cache_seconds=21600" />
+  <a href="https://github.com/ElvisAbner?tab=repositories" target="_blank">
+    <img width="325"
+         src="https://github-readme-stats-tau-jade.vercel.app/api/top-langs/?username=ElvisAbner&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&langs_count=8&layout=compact&theme=react&border_color=61dafb&border_radius=10&cache_seconds=21600" />
+  </a>
 </div>
 
 <hr>
@@ -61,12 +67,12 @@
 <h2 align="center">Repositories</h2>
 
 <div align="center">
-  <a href="https://github.com/ElvisAbner/React-KeeperApp">
+  <a href="https://github.com/ElvisAbner/React-KeeperApp" target="_blank">
     <img height="115"
          src="https://github-readme-stats-tau-jade.vercel.app/api/pin/?username=ElvisAbner&repo=React-KeeperApp&theme=react&border_color=61dafb&border_radius=10&cache_seconds=21600" />
   </a>
 
-  <a href="https://github.com/ElvisAbner/NodeJS-Vlogging-Website">
+  <a href="https://github.com/ElvisAbner/NodeJS-Vlogging-Website" target="_blank">
     <img height="115"
          src="https://github-readme-stats-tau-jade.vercel.app/api/pin/?username=ElvisAbner&repo=NodeJS-Vlogging-Website&theme=react&border_color=61dafb&border_radius=10&cache_seconds=21600" />
   </a>
@@ -75,12 +81,12 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ElvisAbner/React-WeatherApp">
+  <a href="https://github.com/ElvisAbner/React-WeatherApp" target="_blank">
     <img height="115"
          src="https://github-readme-stats-tau-jade.vercel.app/api/pin/?username=ElvisAbner&repo=React-WeatherApp&theme=react&border_color=61dafb&border_radius=10&cache_seconds=21600" />
   </a>
 
-  <a href="https://github.com/ElvisAbner/NodeJS-ToDoList">
+  <a href="https://github.com/ElvisAbner/NodeJS-ToDoList" target="_blank">
     <img height="115"
          src="https://github-readme-stats-tau-jade.vercel.app/api/pin/?username=ElvisAbner&repo=NodeJS-ToDoList&theme=react&border_color=61dafb&border_radius=10&cache_seconds=21600" />
   </a>
