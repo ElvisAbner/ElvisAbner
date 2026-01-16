@@ -36,37 +36,44 @@
 <br>
 
 <h2 align="center">Stats</h2>
-<p align=center>
-  <div align=center>
-    <a href="#">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ElvisAbner&theme=react&border_radius=10&border=61DAFB" />
-    </a>
-    <a href="#">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ElvisAbner&show_icons=true&theme=react&border_color=61dafb&border_radius=10&rank_icon=github" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="#">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisAbner&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&theme=react&border_color=61dafb&border_radius=10" />
-    </a>
-  </div>
-  <br>
-  <br>
-  
-  
-<h2 align="center">Repositories </h2>
-<div width="100%" align="center">
-  <a align="right" href="https://github.com/ElvisAbner/React-KeeperApp" title="Repository 1"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ElvisAbner&repo=React-KeeperApp&theme=react&border_color=61dafb&border_radius=10.1"></a>
-  <a align="left" href="https://github.com/ElvisAbner/NodeJS-Vlogging-Website" title="Repository 2"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ElvisAbner&repo=NodeJS-Vlogging-Website&theme=react&border_color=61dafb&border_radius=10"></a>
+
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=ElvisAbner&theme=react&border_radius=10&border=61DAFB" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ElvisAbner&show_icons=true&theme=react&border_color=61dafb&border_radius=10&rank_icon=github" />
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/ElvisAbner/React-WeatherApp " title="Repository 3"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ElvisAbner&repo=React-WeatherApp&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/ElvisAbner/NodeJS-ToDoList" title="Repository 3"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ElvisAbner&repo=NodeJS-ToDoList&theme=react&border_color=61dafb&border_radius=10.1"></a>
 
-  <br><br><br><br><br><br>
+<br/>
 
-  <h4 align="center">
-  <a href="https://github.com/ElvisAbner?tab=repositories" title="Show Repositories">Show More</a>
+<div align="center">
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisAbner&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&theme=react&border_color=61dafb&border_radius=10" />
+</div>
+
+---
+
+<h2 align="center">Repositories</h2>
+
+<div align="center">
+  <a href="https://github.com/ElvisAbner/React-KeeperApp">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ElvisAbner&repo=React-KeeperApp&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+  <a href="https://github.com/ElvisAbner/NodeJS-Vlogging-Website">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ElvisAbner&repo=NodeJS-Vlogging-Website&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ElvisAbner/React-WeatherApp">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ElvisAbner&repo=React-WeatherApp&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+  <a href="https://github.com/ElvisAbner/NodeJS-ToDoList">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ElvisAbner&repo=NodeJS-ToDoList&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+</div>
+
+<br/>
+
+<h4 align="center">
+  <a href="https://github.com/ElvisAbner?tab=repositories">Show More</a>
 </h4>
