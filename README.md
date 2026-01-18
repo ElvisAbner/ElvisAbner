@@ -20,7 +20,7 @@
 
 <h2 align="center">Programming Languages</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,python" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,unity,python" />
 </p>
 
 <br>
@@ -34,7 +34,7 @@
 
 <h2 align="center">Learning</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vuejs,django,flask" />
+  <img src="https://skillicons.dev/icons?i=cs,unity" />
 </p>
 
 <br>
