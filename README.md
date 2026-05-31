@@ -50,24 +50,17 @@
 <hr>
 <h2 align="center">Repositories</h2>
 <div align="center">
-  <a href="https://github.com/ElvisAbner/React-KeeperApp" target="_blank">
+  <a href="https://github.com/ElvisAbner/Haus-Ecommerce" target="_blank">
     <img height="115"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=ElvisAbner&repo=React-KeeperApp&theme=react&border_color=61dafb&border_radius=10&cache_seconds=21600" />
+         src="https://github-readme-stats.vercel.app/api/pin/?username=ElvisAbner&repo=Haus-Ecommerce&theme=react&border_color=61dafb&border_radius=10&cache_seconds=21600" />
   </a>
-  <a href="https://github.com/ElvisAbner/NodeJS-Vlogging-Website" target="_blank">
+  <a href="https://github.com/ElvisAbner/VueJS-Web-Form" target="_blank">
     <img height="115"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=ElvisAbner&repo=NodeJS-Vlogging-Website&theme=react&border_color=61dafb&border_radius=10&cache_seconds=21600" />
+         src="https://github-readme-stats.vercel.app/api/pin/?username=ElvisAbner&repo=VueJS-Web-Form&theme=react&border_color=61dafb&border_radius=10&cache_seconds=21600" />
   </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/ElvisAbner/React-WeatherApp" target="_blank">
+  <a href="https://github.com/ElvisAbner/VueJS-Reaction-Timer" target="_blank">
     <img height="115"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=ElvisAbner&repo=React-WeatherApp&theme=react&border_color=61dafb&border_radius=10&cache_seconds=21600" />
-  </a>
-  <a href="https://github.com/ElvisAbner/NodeJS-ToDoList" target="_blank">
-    <img height="115"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=ElvisAbner&repo=NodeJS-ToDoList&theme=react&border_color=61dafb&border_radius=10&cache_seconds=21600" />
+         src="https://github-readme-stats.vercel.app/api/pin/?username=ElvisAbner&repo=VueJS-Reaction-Timer&theme=react&border_color=61dafb&border_radius=10&cache_seconds=21600" />
   </a>
 </div>
 <br/>
